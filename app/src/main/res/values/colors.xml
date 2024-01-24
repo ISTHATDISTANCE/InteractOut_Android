@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#01FFFFFF</color>
+    <color name="overlay_color">#aa123456</color>
+    <color name="UM_blue">#00274C</color>
+    <color name="UM_blue_variant">#364f78</color>
+    <color name="UM_blue_night">#000024</color>
+    <color name="UM_maize">#FFCB05</color>
+    <color name="UM_maize_variant">#fffe52</color>
+    <color name="UM_maize_night">#c79b00</color>
+    <color name="Apple_blue">#007aff</color>
+</resources>

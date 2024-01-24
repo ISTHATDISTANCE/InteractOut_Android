@@ -2,7 +2,7 @@
 
 InteractOut is a smartphone overuse intervention tool that use Interaction Proxies [1] techniques to make users’ touch input less usable in order to reduce users’ desire to continue using smartphone.
 
-This is the source code of InteractOut. See [Video](https://drive.google.com/file/d/177BVF8shGs5Xjz2Nt0oybrWhsk6aJCrr/view?usp=sharing) for the brief introduction.
+This is the source code of InteractOut. See [Video](https://drive.google.com/file/d/1xvOINBRq7q5QfQX264acldPrVT7J8bUo/view?usp=sharing) for the brief introduction.
 
 ---
 

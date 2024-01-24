@@ -63,6 +63,12 @@ Tap Delay, Tap Prolong, Swipe Delay and Swipe Scale are continuous. Other interv
 
 The original main interface is used for the field study, in which the user has fixed configurations of apps and interventions. If you want to have free control, go to `AndroidManifest.xml` and set `PanelActivity` as the LAUNCH activity (it is DEFAULT currently)
 
+### Home Page (main for common users)
+
+In home page, you can select arbitrary combination of interventions. After choosing your target apps and setting time limit for each of them, you are ready to go! You can also mannually configure the intervention parameters yourself.
+
+<img src="Assets/user_page.png" alt="home page" width="300" />
+
 ### Field Study Page (main page for field study participants)
 
 Field Study Page is only used for the field study of InteractOut. Participants cannot change any setting, including the applications they want to control usage, the combination of interventions or the time limit. Everything is fixed for study purposes.

@@ -21,7 +21,8 @@
     <string name="question_5"><b>5. </b>I find this intervention physically harder for me to use the app.</string>
     <string name="survey_description">Based on your experience in the last 3 minutes, please rate the following three questions from 1 to 7, where 1 is <b>strongly disagree</b>, 2 is <b>disagree</b>, 3 is <b>somewhat disagree</b>, 4 is <b>neither agree nor disagree</b>, 5 is <b>somewhat agree</b>, 6 is <b>agree</b> and 7 is <b>strong agree</b>.</string>
     <string name="question_6"><b>6. </b>Now you have experienced the two levels of %1$s. Please select which one you probably use in your daily life to help you reduce smartphone usage. (Consider the balance between effectiveness and annoyance)</string>
-    <string name="interactout"><b>InteractOut:</b> Less interaction and out of the phone!</string>
+    <string name="interactout"><b>InteractOut</b></string>
+    <string name="tagline">Less interaction and out of the phone!</string>
     <string name="total_time_and_current_time">"Your goal: &lt;b>%1$s&lt;/b>,\n your current usage: &lt;b>%2$s"&lt;/b></string>
     <string name="time_setting_instruction">Please set the time limit for:</string>
     <string name="no_intervention">You are in base week and have no interventions.</string>
